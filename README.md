@@ -1,19 +1,19 @@
- Product Price Prediction using Machine Learning
+## Product Price Prediction using Machine Learning
 
 This is a beginner-level machine learning project that predicts product prices using
 brand, category, and customer rating.
 
-Technologies Used
+# Technologies Used
 - Python
 - Pandas
 - Scikit-learn
 - Matplotlib
 - Google Colab
 
-Machine Learning Model
+# Machine Learning Model
 - Linear Regression
 
-Steps Performed
+# Steps Performed
 1. Created a small dataset
 2. Performed data preprocessing
 3. Converted categorical data using Label Encoding
@@ -21,17 +21,17 @@ Steps Performed
 5. Predicted product prices
 6. Visualized results using graphs
 
-Result
+# Result
 The model predicts product prices with reasonable accuracy for a small dataset.
 The project focuses on understanding the complete machine learning workflow.
 
- How to Run
+ # How to Run
 1. Open the notebook in Google Colab
 2. Run all cells from top to bottom
 
 Author
 Anamika Tripathi
-## Visualizations
-![Average prize vs brand]("C:\Users\HP\Downloads\average_prize_vs_brand.png")
-![Average vs Predicted]("C:\Users\HP\Downloads\avg_prize_vs_predicted_prize.png")
+
+
+
 
