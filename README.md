@@ -31,3 +31,7 @@ The project focuses on understanding the complete machine learning workflow.
 
 Author
 Anamika Tripathi
+## Visualizations
+![Average prize vs brand]("C:\Users\HP\Downloads\average_prize_vs_brand.png")
+![Average vs Predicted]("C:\Users\HP\Downloads\avg_prize_vs_predicted_prize.png")
+
